@@ -290,7 +290,7 @@
             </div>
             
             <div class="mt-4 text-large">
-              <a href="/video-editor" target="_blank">
+              <a href="/" target="_blank">
                 <button class="btn btn-primary btn-wide mt-3"
                   >Video Editor</button
                 >

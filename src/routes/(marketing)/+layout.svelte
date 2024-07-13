@@ -14,7 +14,7 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/editor">Video Editor</a></li>
+      <li class="md:mx-2"><a href="/">Video Editor</a></li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
       <li class="md:mx-2"><a href="/account">Account</a></li>
     </ul>
